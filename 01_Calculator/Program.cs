@@ -4,6 +4,7 @@ var firstAsText = Console.ReadLine();
 var number1 = int.Parse(firstAsText);
 
 Console.WriteLine("Input the second number:");
+// Hello
 var secondAsText = Console.ReadLine();
 var number2 = int.Parse(secondAsText);
 
